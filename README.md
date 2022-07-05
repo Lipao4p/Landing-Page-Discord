@@ -1,5 +1,7 @@
 <h1># Landing-Page-Discord</h1>
-![IMAGEM SITE](https://user-images.githubusercontent.com/101216130/177352787-64d4e6d4-9ded-4348-9de4-781be18efc48.jpg)
+
+![IMAGEM SITE](https://user-images.githubusercontent.com/101216130/177353337-8d6adc9a-3ddd-4107-b92c-a1e32934bd18.jpg)
+
 <h2>✏️ Visão Geral</h2>
 
 Lading Page desenvolvida como chamada para um canal do discord onde estão eu e meus amigos.
